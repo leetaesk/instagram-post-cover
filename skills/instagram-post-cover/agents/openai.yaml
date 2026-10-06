@@ -1,0 +1,4 @@
+interface:
+  display_name: "인스타그램 게시물 커버"
+  short_description: "선정한 인스타 커버 스타일로 제작하며 사진 소재는 웹에서만 수집"
+  default_prompt: "$instagram-post-cover 웹에서 가져온 이미지로 이 주제의 인스타그램 게시물 커버를 만들어줘."
